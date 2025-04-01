@@ -1,5 +1,6 @@
 
 
+
 # BedWars-Script
 Enhance your Roblox BedWars experience with this powerful script! From auto-building and combat automation to resource farming and bed defense, this script offers a range of features designed to give you the edge in every match. Start dominating today! 💎⚔️🛏️
 
